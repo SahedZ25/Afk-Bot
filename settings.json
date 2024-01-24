@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "fall-ef.gl.joinmc.link",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.20.4"
   },
 
   "position": {
